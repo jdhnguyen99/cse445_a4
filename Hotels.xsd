@@ -6,7 +6,7 @@
           <xs:complexType>
             <xs:sequence>
               <xs:element type="xs:string" name="Name"/>
-              <xs:element type="xs:string" name="Phone" maxOccurs="unbounded" minOccurs="0"/>
+              <xs:element type="xs:string" name="Phone" maxOccurs="unbounded" minOccurs="1"/>
               <xs:element name="Address" minOccurs="0">
                 <xs:complexType>
                   <xs:sequence>
