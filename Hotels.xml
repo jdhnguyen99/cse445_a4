@@ -3,7 +3,7 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>11</Number>
             <Street>E. 7th St</Street>
             <City>Tempe</City>
@@ -15,7 +15,7 @@
         <Name>The Plaza</Name>
         <Phone>212-759-3000</Phone>
         <Phone>212-546-5300</Phone>
-        <Address NearestAirport="JFK International">
+        <Address NearstAirport="JFK International">
             <Number>768</Number>
             <Street>5th Ave</Street>
             <City>New York</City>
@@ -27,7 +27,7 @@
         <Name>The Beverly Hills Hotel</Name>
         <Phone>310-276-2251</Phone>
         <Phone>310-281-2900</Phone>
-        <Address NearestAirport="LAX">
+        <Address NearstAirport="LAX">
             <Number>9641</Number>
             <Street>Sunset Blvd</Street>
             <City>Beverly Hills</City>
@@ -38,7 +38,7 @@
     <Hotel>
         <Name>The Ritz-Carlton</Name>
         <Phone>312-266-1000</Phone>
-        <Address NearestAirport="O'Hare International">
+        <Address NearstAirport="O'Hare International">
             <Number>160</Number>
             <Street>E. Pearson St</Street>
             <City>Chicago</City>
@@ -50,7 +50,7 @@
         <Name>Bellagio</Name>
         <Phone>702-693-7111</Phone>
         <Phone>702-693-7070</Phone>
-        <Address NearestAirport="Harry Reid International">
+        <Address NearstAirport="Harry Reid International">
             <Number>3600</Number>
             <Street>S Las Vegas Blvd</Street>
             <City>Las Vegas</City>
@@ -61,7 +61,7 @@
     <Hotel>
         <Name>Caesars Palace</Name>
         <Phone>866-227-5938</Phone>
-        <Address NearestAirport="Harry Reid International">
+        <Address NearstAirport="Harry Reid International">
             <Number>3570</Number>
             <Street>S Las Vegas Blvd</Street>
             <City>Las Vegas</City>
@@ -72,7 +72,7 @@
     <Hotel Rating="4.5">
         <Name>Fairmont San Francisco</Name>
         <Phone>415-772-5000</Phone>
-        <Address NearestAirport="SFO International">
+        <Address NearstAirport="SFO International">
             <Number>950</Number>
             <Street>Mason St</Street>
             <City>San Francisco</City>
@@ -83,7 +83,7 @@
     <Hotel>
         <Name>The Broadmoor</Name>
         <Phone>719-577-5777</Phone>
-        <Address NearestAirport="Colorado Springs Airport">
+        <Address NearstAirport="Colorado Springs Airport">
             <Number>1</Number>
             <Street>Lake Ave</Street>
             <City>Colorado Springs</City>
@@ -94,7 +94,7 @@
     <Hotel>
         <Name>The Biltmore Hotel</Name>
         <Phone>305-445-1926</Phone>
-        <Address NearestAirport="Miami International">
+        <Address NearstAirport="Miami International">
             <Number>1200</Number>
             <Street>Anastasia Ave</Street>
             <City>Coral Gables</City>
@@ -105,7 +105,7 @@
     <Hotel>
         <Name>The Phoenician</Name>
         <Phone>480-941-8200</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>6000</Number>
             <Street>E. Camelback Rd</Street>
             <City>Scottsdale</City>
