@@ -1,3 +1,6 @@
+<!DOCTYPE e [
+<!ELEMENT e (#PCDATA | e)* >
+]>
 <Hotels>
     <Hotel Rating="4.2">
         <Name>Westin</Name>
