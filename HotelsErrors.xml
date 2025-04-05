@@ -55,6 +55,7 @@
             <City>Las Vegas</City>
             <State>NV</State>
             <Zip>89109</Zip>
+        </Address>
     </Hotel>
     <Hotel>
         <Name>Caesars Palace</Name>
